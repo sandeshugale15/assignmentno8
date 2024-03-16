@@ -1,0 +1,26 @@
+{
+    "title": "Tech Conference 2024",
+    "description": "An annual technology conference featuring talks and workshops on the latest trends and innovations in the tech industry.",
+    "date": "2024-10-15",
+    "time": "09:00 AM - 06:00 PM",
+    "location": "Convention Center, New York City",
+    "capacity": 500,
+    "registrationDeadline": "2024-09-30",
+    "category": "Conference",
+    "organizer": {
+      "name": "Tech Events, Inc.",
+      "email": "info@techevents.com",
+      "website": "https://www.techevents.com"
+    },
+    "attendees": [
+      {
+        "name": "John Doe",
+        "email": "john@example.com"
+      },
+      {
+        "name": "Jane Smith",
+        "email": "jane@example.com"
+      }
+    ]
+  }
+  
